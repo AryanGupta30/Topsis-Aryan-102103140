@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: Topsis-Aryan-102103140
+Version: 1.1.2
+Summary: Topsis-Aryan-102103140
+Home-page: https://github.com/AryanGupta30/Topsis-Aryan-102103140.git
+Author: Aryan Gupta
+Author-email: 30aryang@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+
 #Project Description
 
 for: Assignment-1 (UCS654) submitted by: Aryan Gupta  Roll no: 102103140   Group: 3COE5
@@ -84,7 +98,7 @@ M8,0.8,0.64,5.1,40.9,11.86,0.6235072426142194,4.0
 
 License
 
-© 2024 Aryan Gupta
+Â© 2024 Aryan Gupta
 
 This repository is licensed under the MIT license.
 
