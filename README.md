@@ -1,10 +1,10 @@
-#Project Description
+# Project Description
 
 for: Assignment-1 (UCS654) submitted by: Aryan Gupta  Roll no: 102103140   Group: 3COE5
 
 Topsis-Aryan-102103140 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
 
-#Installation
+# Installation
 
 `pip install Topsis-Aryan-102103145`
 
@@ -15,7 +15,7 @@ Enter csv filename followed by .csv extension, then enter the weights separated 
 `Topsis sample.csv "1,1,1,2,2" "+,+,-,+,+" result.csv`
 
 
-#Example
+# Example
 
 sample.csv
 
@@ -76,7 +76,7 @@ M8,0.8,0.64,5.1,40.9,11.86,0.6235072426142194,4.0
 
 
 
-#Other Notes
+# Other Notes
 
 1. The first column and first row are removed by the library before processing, in attempt to remove indices and headers. Make sure the csv follows the format as shown in sample.csv.
 
